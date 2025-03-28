@@ -4,8 +4,17 @@
 
 This project uses **Exploratory Data Analysis (EDA)** and the **ARIMA (AutoRegressive Integrated Moving Average)** model to predict the future stock prices of **NVIDIA** based on historical data. The project also utilizes **Fourier Transform** to uncover seasonality and periodic components in the stock prices, which further aid in building a more accurate predictive model.
 
-#Data Source:
+## Data Source:
 kaggle link: https://www.kaggle.com/datasets/muhammaddawood42/nvidia-stock-data
+
+## Project Structure 🗂️
+📦 NVIDIA-Stocks-Forecasting
+├── 📄 README.md  
+├── 📂 data  
+│   ├── NVIDIA_STOCK.csv  
+├── 📂 script  
+│   ├── Time_Series_Forecasting.ipynb  
+└── 📂 graphs  
 
 ## Key Insights and Conclusions 🧠💡
 
@@ -28,5 +37,5 @@ This analysis of NVIDIA’s stock data offers valuable insights into the company
 
 For investors and market analysts, understanding these patterns is critical for making informed decisions. It's important to consider external factors, such as company news or broader market conditions, that may impact stock performance. This project demonstrates how analytical techniques like Fourier Transform, EDA, and ARIMA can be employed to explore and predict stock price movements.
 
-## Project Structure 🗂️
+
 
