@@ -1,6 +1,6 @@
 # NVIDIA-Stocks-Forecasting
 
-# NVIDIA Stock Prediction using ARIMA and Fourier Transform 📈🔮
+# NVIDIA Stock Prediction using ARIMA and Fourier Transform 📈
 
 This project uses **Exploratory Data Analysis (EDA)** and the **ARIMA (AutoRegressive Integrated Moving Average)** model to predict the future stock prices of **NVIDIA** based on historical data. The project also utilizes **Fourier Transform** to uncover seasonality and periodic components in the stock prices, which further aid in building a more accurate predictive model.
 
