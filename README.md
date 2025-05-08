@@ -7,6 +7,7 @@ kaggle link: https://www.kaggle.com/datasets/muhammaddawood42/nvidia-stock-data
 
 ## Project Structure 🗂️
 📦 NVIDIA-Stocks-Forecasting
+
 ├── 📄 README.md  
 ├── 📂 data  
 │   ├── NVIDIA_STOCK.csv  
